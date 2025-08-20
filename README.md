@@ -1,2 +1,3 @@
 # CSC151
-This is a repository for CSC-151 JAVA Programming.
+CSC 151 JAVA Programming.
+This is a JAVA repository.
